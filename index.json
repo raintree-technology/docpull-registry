@@ -1,0 +1,14 @@
+{
+  "packs": {
+    "python-asyncio-docs": {
+      "latest": "2026-10",
+      "versions": {
+        "2026-10": {
+          "path": "packs/python-asyncio-docs/2026-10.json",
+          "sha256": "7b45f805f42a9376ac156a0597ad8d5d85868769dbc70e05eab170debc3e2827"
+        }
+      }
+    }
+  },
+  "schema_version": 1
+}

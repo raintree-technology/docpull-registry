@@ -1,0 +1,41 @@
+{
+  "description": "Python 3 asyncio library reference, 11 pages",
+  "docpull_version": "6.6.0",
+  "expected": {
+    "python-asyncio": {
+      "https://docs.python.org/3/library/asyncio-dev.html": "22a06cc16d9b62d4f95b77dbcda1ed9745afe387f21c7f25f258d267db6cfc3c",
+      "https://docs.python.org/3/library/asyncio-eventloop.html": "7fc5e66589508229e6385d6908409db1ad9c9e94cd45ffeeca6555f253a91255",
+      "https://docs.python.org/3/library/asyncio-exceptions.html": "f823949736d88297ec49a42dedf92ba39b5c70c5107c7d767e2887f3cbd614c1",
+      "https://docs.python.org/3/library/asyncio-future.html": "4b1ed2d6b8c06c6140ca08712250c5139393c66cdb9a0b114a6eaa0fa3912737",
+      "https://docs.python.org/3/library/asyncio-queue.html": "7731b11fde081150de518330303a39c48d98a4195eb4903538980a6f03353749",
+      "https://docs.python.org/3/library/asyncio-runner.html": "0a9f123c0d23673355611d6a213408724634d7b5f0471426921dfe8d9777c848",
+      "https://docs.python.org/3/library/asyncio-stream.html": "6e531f0b94c4b004ea206040a2b41c25432440006fa69ca06afe67253603a8ee",
+      "https://docs.python.org/3/library/asyncio-subprocess.html": "18070114a2d04a8c36798afa24afa52c192c3730be88491dffa40d3a5ca92868",
+      "https://docs.python.org/3/library/asyncio-sync.html": "138d41f2c449f95112926b0353b96a4bf50d0330a3162c719ed29ab8fa9565ed",
+      "https://docs.python.org/3/library/asyncio-task.html": "cddeec7e932c5bff64190a85a32e8fd5ef89b48e1eacdef0201d0ea7749710c9",
+      "https://docs.python.org/3/library/asyncio.html": "02499428c98eb0e651cf3db0d0a7d5f6ace87b9ccd4c497e39bd7afecad4f8b9"
+    }
+  },
+  "name": "python-asyncio-docs",
+  "schema_version": 1,
+  "sources": [
+    {
+      "discovered_urls": [
+        "https://docs.python.org/3/library/asyncio-runner.html",
+        "https://docs.python.org/3/library/asyncio-task.html",
+        "https://docs.python.org/3/library/asyncio-stream.html",
+        "https://docs.python.org/3/library/asyncio-sync.html",
+        "https://docs.python.org/3/library/asyncio-subprocess.html",
+        "https://docs.python.org/3/library/asyncio-queue.html",
+        "https://docs.python.org/3/library/asyncio-exceptions.html",
+        "https://docs.python.org/3/library/asyncio-eventloop.html",
+        "https://docs.python.org/3/library/asyncio-future.html",
+        "https://docs.python.org/3/library/asyncio-dev.html"
+      ],
+      "name": "python-asyncio",
+      "type": "auto",
+      "url": "https://docs.python.org/3/library/asyncio.html"
+    }
+  ],
+  "version": "2026-10"
+}
